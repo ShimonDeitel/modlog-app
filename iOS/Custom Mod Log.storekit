@@ -1,0 +1,27 @@
+{
+  "identifier" : "Custom Mod Log",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.modlog.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Full build-sheet timeline with total investment summary",
+          "displayName" : "Custom Mod Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.modlog.pro",
+      "referenceName" : "Custom Mod Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
